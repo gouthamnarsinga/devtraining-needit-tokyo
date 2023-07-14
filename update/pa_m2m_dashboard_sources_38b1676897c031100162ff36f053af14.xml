@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_sources">
+    <pa_m2m_dashboard_sources action="INSERT_OR_UPDATE">
+        <breakdown_source display_value="Dashboard Groups">7e945739c7000300b0ea8b3c5c976319</breakdown_source>
+        <dashboard display_value="Copy of Admin Console">b8b1eb2897c031100162ff36f053afd3</dashboard>
+        <order>100</order>
+        <publisher display_value="Dashboard Groups">5a151f39c7000300b0ea8b3c5c976304</publisher>
+        <sys_class_name>pa_m2m_dashboard_sources</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 13:59:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>38b1676897c031100162ff36f053af14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Admin Console.Dashboard Groups</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_sources_38b1676897c031100162ff36f053af14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:59:35</sys_updated_on>
+    </pa_m2m_dashboard_sources>
+</record_update>
